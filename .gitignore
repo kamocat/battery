@@ -25,3 +25,6 @@ battery-backups/*
 # Exported BOM files
 *.xml
 *.csv
+
+# gerber files
+gerber*
